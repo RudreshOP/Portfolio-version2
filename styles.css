@@ -14,7 +14,7 @@ body {
 }
 
 hr {
-    margin: 2rem 0;;
+    margin: 2rem 0;
 }
 
 .text-sm {
@@ -34,6 +34,9 @@ hr {
     max-width: 600px;
 }
 
+.text-tech{
+    text-align:     inherit;
+}
 /** links **/
 
 .link{
